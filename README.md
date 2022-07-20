@@ -1,6 +1,5 @@
 ### 레스토랑 방문자 수 예측 대회
 
-<
 
 **팀원 : 김경준, 차수연, 류제성**
 - 김경준 : data preprocessing, model selection
